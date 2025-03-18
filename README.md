@@ -1,2 +1,2 @@
-# WRO_2024
-World Robot Olympiad, Future Engineers Mission, 2024 
+# WRO_2022
+World Robot Olympiad, Future Engineers Mission, 2022 
